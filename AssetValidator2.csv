@@ -1,0 +1,7 @@
+Object Name,Vertices,Edges,Faces,Triangles,Material,UV Map,Status,Issues,Warnings
+SM_Cube,8,12,6,12,Assigned,Assigned,Valid,,
+SM_Sphere,482,992,512,960,Assigned,Assigned,Valid,,
+SM_Cube.001,8,12,6,12,Assigned,Assigned,Valid,,
+SM_Lamp,752,1550,800,1500,Missing,Assigned,Invalid,Material not assigned,
+SM_Cylinder,64,96,34,124,Assigned,Missing,Invalid,UV map not found,
+Sphere,752,1550,800,1500,Missing,Missing,Invalid,Incorrect name convention;Material not assigned;UV map not found,
